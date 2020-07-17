@@ -81,7 +81,7 @@ for i in range(2):
         with open("PATH TO Matlab to txt via python"+name[:-3]+"txt", 'a+') as f: #C:/users/username/downloads/Matlab to txt via python
             f.write(str + '\n')
             f.close()
-        str = '%s%s' %("data/vehicle/", name)
+        str = '%s%s' %("data/test/", name)
         with open(base_dir+"test.txt",'a+') as t:
             t.write(str + '\n')
             t.close()  
