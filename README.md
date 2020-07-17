@@ -3,9 +3,9 @@
 
 **1) Download the [dataset](https://drive.google.com/file/d/1suu7qXFQVPYL4hPOX_fbqSn35VQI2iH2/view?usp=sharing)**  
 **1.1) Put run.py and the extracted file you downloaded in the same folder**  
-**1.2) Create dataset empty folder and move all the images to it (Dont put the readme.txt file in here it should only contain the images)    
+**1.2) Create dataset empty folder and move all the images to it (Dont put the readme.txt file in here it should only contain the images)**  
 **1.3) Create test and train empty folders inside BITVehicle_Dataset**  
-**1.3.1) Your BITVehicle_Dataset folder should look like [this](https://photos.app.goo.gl/HAvRtUWQVJyPax899)  
+**1.3.1) Your BITVehicle_Dataset folder should look like [this]** (https://photos.app.goo.gl/HAvRtUWQVJyPax899)  
 **1.4) Open run.py and install required libraries then change the pathes in code according to your folder directory**  
 **1.5) run the code and wait untill it finishes**  
   
